@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Jiayi LIU&#39;s</title>
+    <link>aseUrl=//www.jiayi-liu.cn/projects/</link>
+    <description>Recent content in Projects on Jiayi LIU&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>yolo</copyright>
+    <lastBuildDate>Wed, 12 Oct 2022 10:53:59 +0800</lastBuildDate><atom:link href="aseUrl=//www.jiayi-liu.cn/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Static Website Init</title>
+      <link>aseUrl=//www.jiayi-liu.cn/projects/init/</link>
+      <pubDate>Wed, 12 Oct 2022 10:53:59 +0800</pubDate>
+      
+      <guid>aseUrl=//www.jiayi-liu.cn/projects/init/</guid>
+      <description>Reference
+https://irma.math.unistra.fr/~zeng/2016/04/hugo-hyde/
+https://blog.csdn.net/wji15/article/details/126632895
+https://blog.csdn.net/zcy0xy/article/details/90691943
+https://github.com/spf13/hyde
+https://themes.gohugo.io/hyde/
+https://www.gohugo.org/theme/hyde-y/
+https://gohugo.io/templates/lookup-order/
+https://minghsu.io/posts/first-post/
+https://segmentfault.com/a/1190000023478736</description>
+    </item>
+    
+  </channel>
+</rss>

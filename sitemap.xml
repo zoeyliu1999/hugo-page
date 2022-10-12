@@ -2,20 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://juceyj.github.io/tags/init/</loc>
+    <loc>aseUrl=//www.jiayi-liu.cn/about/</loc>
     <lastmod>2022-10-12T10:53:59+08:00</lastmod>
   </url><url>
-    <loc>https://juceyj.github.io/</loc>
+    <loc>aseUrl=//www.jiayi-liu.cn/experiences/</loc>
     <lastmod>2022-10-12T10:53:59+08:00</lastmod>
   </url><url>
-    <loc>https://juceyj.github.io/init/</loc>
+    <loc>aseUrl=//www.jiayi-liu.cn/tags/init/</loc>
     <lastmod>2022-10-12T10:53:59+08:00</lastmod>
   </url><url>
-    <loc>https://juceyj.github.io/tags/</loc>
+    <loc>aseUrl=//www.jiayi-liu.cn/</loc>
     <lastmod>2022-10-12T10:53:59+08:00</lastmod>
   </url><url>
-    <loc>https://juceyj.github.io/series/</loc>
+    <loc>aseUrl=//www.jiayi-liu.cn/projects/</loc>
+    <lastmod>2022-10-12T10:53:59+08:00</lastmod>
   </url><url>
-    <loc>https://juceyj.github.io/series-desc/</loc>
+    <loc>aseUrl=//www.jiayi-liu.cn/experiences/init/</loc>
+    <lastmod>2022-10-12T10:53:59+08:00</lastmod>
+  </url><url>
+    <loc>aseUrl=//www.jiayi-liu.cn/projects/init/</loc>
+    <lastmod>2022-10-12T10:53:59+08:00</lastmod>
+  </url><url>
+    <loc>aseUrl=//www.jiayi-liu.cn/tags/</loc>
+    <lastmod>2022-10-12T10:53:59+08:00</lastmod>
+  </url><url>
+    <loc>aseUrl=//www.jiayi-liu.cn/series/</loc>
+  </url><url>
+    <loc>aseUrl=//www.jiayi-liu.cn/series-desc/</loc>
   </url>
 </urlset>
