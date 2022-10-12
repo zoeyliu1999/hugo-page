@@ -15,6 +15,10 @@
       
       <guid>http://juceyj.github.io/experiences/init/</guid>
       <description>Reference
+$$ y = x * b $$
+Test inline formula : $ E = m c^2 $
+Reference
+https://note.qidong.name/
 https://irma.math.unistra.fr/~zeng/2016/04/hugo-hyde/
 https://blog.csdn.net/wji15/article/details/126632895
 https://blog.csdn.net/zcy0xy/article/details/90691943
@@ -23,7 +27,8 @@ https://themes.gohugo.io/hyde/
 https://www.gohugo.org/theme/hyde-y/
 https://gohugo.io/templates/lookup-order/
 https://minghsu.io/posts/first-post/
-https://segmentfault.com/a/1190000023478736</description>
+https://segmentfault.com/a/1190000023478736
+https://note.qidong.name/tags/hugo/</description>
     </item>
     
     <item>
