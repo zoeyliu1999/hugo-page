@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Jiayi LIU&#39;s</title>
-    <link>http://juceyj.github.io/tags/</link>
+    <link>//juceyj.github.io/tags/</link>
     <description>Recent content in Tags on Jiayi LIU&#39;s</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>yolo</copyright>
-    <lastBuildDate>Wed, 12 Oct 2022 10:53:59 +0800</lastBuildDate><atom:link href="http://juceyj.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Oct 2022 10:53:59 +0800</lastBuildDate><atom:link href="//juceyj.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>init</title>
-      <link>http://juceyj.github.io/tags/init/</link>
+      <link>//juceyj.github.io/tags/init/</link>
       <pubDate>Wed, 12 Oct 2022 10:53:59 +0800</pubDate>
       
-      <guid>http://juceyj.github.io/tags/init/</guid>
+      <guid>//juceyj.github.io/tags/init/</guid>
       <description></description>
     </item>
     

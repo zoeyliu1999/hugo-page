@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Jiayi LIU&#39;s</title>
-    <link>http://juceyj.github.io/projects/</link>
+    <link>//juceyj.github.io/projects/</link>
     <description>Recent content in Projects on Jiayi LIU&#39;s</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>yolo</copyright>
-    <lastBuildDate>Wed, 12 Oct 2022 10:53:59 +0800</lastBuildDate><atom:link href="http://juceyj.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Oct 2022 10:53:59 +0800</lastBuildDate><atom:link href="//juceyj.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Static Website Init</title>
-      <link>http://juceyj.github.io/projects/init/</link>
+      <link>//juceyj.github.io/projects/init/</link>
       <pubDate>Wed, 12 Oct 2022 10:53:59 +0800</pubDate>
       
-      <guid>http://juceyj.github.io/projects/init/</guid>
+      <guid>//juceyj.github.io/projects/init/</guid>
       <description>Reference
 https://irma.math.unistra.fr/~zeng/2016/04/hugo-hyde/
 https://blog.csdn.net/wji15/article/details/126632895

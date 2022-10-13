@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jiayi LIU&#39;s</title>
-    <link>http://juceyj.github.io/</link>
+    <link>//juceyj.github.io/</link>
     <description>Recent content on Jiayi LIU&#39;s</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>yolo</copyright>
-    <lastBuildDate>Wed, 12 Oct 2022 10:53:59 +0800</lastBuildDate><atom:link href="http://juceyj.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Oct 2022 10:53:59 +0800</lastBuildDate><atom:link href="//juceyj.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://juceyj.github.io/about/</link>
+      <link>//juceyj.github.io/about/</link>
       <pubDate>Wed, 12 Oct 2022 10:53:59 +0800</pubDate>
       
-      <guid>http://juceyj.github.io/about/</guid>
+      <guid>//juceyj.github.io/about/</guid>
       <description>Welcome! I am a</description>
     </item>
     
     <item>
       <title>Static Website Init</title>
-      <link>http://juceyj.github.io/experiences/init/</link>
+      <link>//juceyj.github.io/experiences/init/</link>
       <pubDate>Wed, 12 Oct 2022 10:53:59 +0800</pubDate>
       
-      <guid>http://juceyj.github.io/experiences/init/</guid>
+      <guid>//juceyj.github.io/experiences/init/</guid>
       <description>Reference
 $$ y = x * b $$
 Test inline formula : $ E = m c^2 $
@@ -42,10 +42,10 @@ https://note.qidong.name/tags/hugo/</description>
     
     <item>
       <title>Static Website Init</title>
-      <link>http://juceyj.github.io/projects/init/</link>
+      <link>//juceyj.github.io/projects/init/</link>
       <pubDate>Wed, 12 Oct 2022 10:53:59 +0800</pubDate>
       
-      <guid>http://juceyj.github.io/projects/init/</guid>
+      <guid>//juceyj.github.io/projects/init/</guid>
       <description>Reference
 https://irma.math.unistra.fr/~zeng/2016/04/hugo-hyde/
 https://blog.csdn.net/wji15/article/details/126632895
