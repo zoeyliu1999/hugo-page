@@ -1,2 +1,2 @@
-# juceyj.github.io
+# Hugo page
 personal website
